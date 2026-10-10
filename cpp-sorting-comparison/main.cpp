@@ -1,6 +1,8 @@
-﻿#include <iostream>
+﻿#include "algorithms.h"
+#include <iostream>
+#include <vector>
 
 int main()
 {
-    std::cout << "Hello World!\n";
+    return 0;
 }
