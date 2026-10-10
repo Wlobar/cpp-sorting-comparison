@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="cpp-sorting-comparison.vcxproj" />
+  <Project Path="cpp-sorting-comparison.vcxproj" Id="82827b03-1542-4d5a-ab77-33be2edf5e80" />
 </Solution>
